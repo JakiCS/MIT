@@ -6,8 +6,7 @@ Este repositorio contiene el desarrollo de un bot de Discord realizado como part
 ---
 
 ## Objetivo
-El objetivo de la actividad es explorar la integración de herramientas de programación con servicios externos, aplicando buenas prácticas de configuración, control de versiones y manejo de credenciales.
-El proyecto implementa un bot de Discord que:
+El objetivo de la actividad es explorar la integración de herramientas de IA, a través de la implementación de un bot de Discord que:
 a) Se conecta a un servidor de Discord mediante un token de bot.
 b) Responde a comandos básicos definidos por el usuario.
 c) Incluye una integración a OpenAI para generar respuestas automáticas.
