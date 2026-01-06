@@ -18,7 +18,7 @@ c) Incluye una integración a OpenAI para generar respuestas automáticas.
 ```text
 MIT/
 ├── discord_only.py                 # Bot de Discord sin integración con IA
-├── discord_only_plus_openia.py     # Bot de Discord con integración OpenAI (opcional)
+├── discord_only_plus_openia.py     # Bot de Discord con integración OpenAI
 ├── .gitignore                      # Exclusión de entornos virtuales y credenciales
 ├── README.md                       # Resumen del proyecto
 └── Discord_Server                  # URL al servidor de Discord
