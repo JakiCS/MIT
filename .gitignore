@@ -1,10 +1,16 @@
-cat > .gitignore << 'EOF'
+# virtual environments
+.envmit/
+.venv/
+venv/
+
+# environment variables
 .env
 *.env
-.envmit/
-venv/
-.venv/
+
+# python
 __pycache__/
 *.pyc
+
+# IDE
 .idea/
-EOF
+.DS_Store
